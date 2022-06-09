@@ -1,0 +1,27 @@
+{
+  "name": "typescript-basics",
+  "version": "1.0.0",
+  "description": "Basic typescript course",
+  "main": "index.js",
+  "scripts": {
+    "start": "node dist/index.js",
+    "build": "tsc",
+    "start:ts:": "ts-node src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheBugWeb/typescript-basics.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheBugWeb/typescript-basics/issues"
+  },
+  "homepage": "https://github.com/TheBugWeb/typescript-basics#readme",
+  "devDependencies": {
+    "@types/node": "^17.0.41",
+    "ts-node": "^10.8.1",
+    "typescript": "^4.7.3"
+  }
+}
