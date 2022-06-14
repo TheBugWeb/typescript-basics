@@ -6,7 +6,7 @@ This is a repository that contains fundamental features about Typescript with th
 
 Generics are a fundamental feature of statically typed languages, allowing developers to pass types as parameters to another type, function, or other structure.
 
-See the other examples [here]()
+See the other examples [here](/src/generics.ts)
 
 ### ✅ Generics syntax
 
@@ -29,7 +29,7 @@ console.log(execute("I love generics!"));
 2. Add the corresponding parameter of type `<T>`, this will condition the type that is passed to the function.
 3. And finally the function returns the passed value.
 
-See the other examples [here]()
+See the other examples [here](/src/generics.ts)
 
 ### Using Generics in Function
 
